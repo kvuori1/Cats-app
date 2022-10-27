@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breeds">
+        <item>Kaikki rodut</item>
+        <item>Abyssinian</item>
+        <item>Aegean</item>
+        <item>American Bobtail</item>
+        <item>American Curl</item>
+        <item>American Shorthair</item>
+        <item>American Wirehair</item>
+        <item>Arabian Mau</item>
+        <item>Australian Mist</item>
+        <item>Balinese</item>
+        <item>Bambino</item>
+        <item>Bengal</item>
+        <item>Birman</item>
+        <item>Bombay</item>
+        <item>British Longhair</item>
+        <item>British Shorthair</item>
+        <item>Burmese</item>
+        <item>Burmilla</item>
+        <item>California Spangled</item>
+        <item>Chantilly-Tiffany</item>
+        <item>Chartreux</item>
+        <item>Chausie</item>
+        <item>Cheetoh</item>
+        <item>Colorpoint Shorthair</item>
+        <item>Cornish Rex</item>
+        <item>Cymric</item>
+        <item>Cyprus</item>
+        <item>Devon Rex</item>
+        <item>Donskoy</item>
+        <item>Dragon Li</item>
+        <item>Egyptian Mau</item>
+        <item>European Burmese</item>
+        <item>Exotic Shorthair</item>
+        <item>Havana Brown</item>
+        <item>Himalayan</item>
+        <item>Japanese Bobtail</item>
+        <item>Javanese</item>
+        <item>Khao Manee</item>
+        <item>Korat</item>
+        <item>LaPerm</item>
+        <item>Maine Coon</item>
+        <item>Manx</item>
+        <item>Munchkin</item>
+        <item>Nebelung</item>
+        <item>Norwegian Forest Cat</item>
+        <item>Ocicat</item>
+        <item>Oriental</item>
+        <item>Persian</item>
+        <item>Pixie-bob</item>
+        <item>Ragamuffin</item>
+        <item>Ragdoll</item>
+        <item>Russian Blue</item>
+        <item>Savannah</item>
+        <item>Scottish Fold</item>
+        <item>Selkirk Rex</item>
+        <item>Siamese</item>
+        <item>Siberian</item>
+        <item>Singapura</item>
+        <item>Snowshoe</item>
+        <item>Somali</item>
+        <item>Sphynx</item>
+        <item>Tonkinese</item>
+        <item>Toyger</item>
+        <item>Turkish Angora</item>
+        <item>Turkish Van</item>
+        <item>York Chocolate</item>
+    </string-array>
+    <string name="app_name">CATS</string>
+    <string name="settings">Asetukset</string>
+    <string name="no_internet">Ei nettiä</string>
+    <string name="get_new_cat">Uusi kissa</string>
+    <string name="save_settings">Tallenna asetukset \nja takaisin kissoihin</string>
+</resources>
