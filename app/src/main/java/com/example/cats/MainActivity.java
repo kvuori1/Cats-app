@@ -115,10 +115,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
-
-
-
     //tuodaan dropdownin tila takaisin asetuksisiin
     public void toSettings(View view) {
         int dropDownPos = getIntent().getIntExtra("dropDownPos", 0);
@@ -126,16 +122,6 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("dropDownPos", dropDownPos);
         startActivity(intent);
     }
-
-
-
-
-
-
-
-
-
-
 
 
     private boolean checkConnection() {
@@ -154,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //katsoo onko netti
+    //katsootaan onko nettiyhteyttä
     private boolean connectedToInternet() {
         ConnectivityManager conManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = conManager.getActiveNetworkInfo();
@@ -168,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    //tallentaa viimeisen kissan bundleen
+    //tallentaa viimeisen kissan linkki bundleen
     @Override
     public void onSaveInstanceState(Bundle savedInstanceState) {
         savedInstanceState.putString("lastCatUrl", lastCatUrl);
